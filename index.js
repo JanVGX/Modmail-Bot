@@ -16,7 +16,7 @@ client.on("ready", () => {
 
     console.log("I am ready to receive and Send Mails :D")
 
-    client.user.setActivity("Watching My Dm's :D")
+    client.user.setActivity("_help | Made by JanVGX")
 
 })
 
@@ -242,7 +242,7 @@ client.on("message", async message => {
 
                 .setColor("GREEN")
 
-                .setDescription("This bot is made by CTK WARRIOR, You can remove credits :D")
+                .setDescription("All my commands")
 
                 .addField(prefix + "setup", "Setup the modmail system(This is not for multiple server.)", true)
 
