@@ -5,4 +5,4 @@ A simple Modmail Bot for you
 To install the pqckages type `npm init` and `npm i discord.js` 
 
 # Fetures 
-To setup the Modmail Bot go to your channel and type in `?setup`
+To see the help command go to your channel and type in `?help`
